@@ -1,2 +1,5 @@
 hello there ...what's up ...................commiting changes
 thats how we do it .
+
+
+Im doing changes here online .....and going to pull it on the vs code 
